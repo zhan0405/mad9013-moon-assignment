@@ -107,8 +107,7 @@ a:hover, a:active, a:focus{
 	background-color: #000;
     min-height: 370px;
     display:block;
-    background-image:
-        url(file:///Users/zl/Documents/mad9013/mad9013%20ass3/moon-assign/img/moon-header.jpg);
+    background-image: url("../img/moon-header.jpg");
     background-repeat: no-repeat;
     background-position: top right;
 }
